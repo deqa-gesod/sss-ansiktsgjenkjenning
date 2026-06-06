@@ -1,4 +1,4 @@
-# Ansiktsgjenkjenning og velkomstsystem
+# Face Recognition Welcome System
 
 A face-recognition welcome system that runs on a Raspberry Pi. The camera watches the scene, recognises people it already knows from a folder of photos, draws a box with their name on the live video, and greets them out loud in Norwegian: "velkommen kjære kunde [navn]".
 
